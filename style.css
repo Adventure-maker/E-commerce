@@ -42,6 +42,7 @@ a {
     padding: 0;
     text-decoration: none;
     color: inherit;
+    outline: none;
 }
 
 #main {
@@ -106,7 +107,7 @@ footer {
 
 .about {
     margin-top: 4%;
-    padding: 2%;
+    padding: 4%;
 }
 
 .cost {
