@@ -158,30 +158,3 @@ footer {
 .title {
     font-size: 20px;
 }
-
-/* 
-    <div class="about">
-                    <p class="title">HTML5, CSS3, Javascript for beginners</p>
-                    <div class="rating">
-                        <i class="fa fa-star"></i>
-                        <i class="fa fa-star"></i>
-                        <i class="fa fa-star"></i>
-                        <i class="fa fa-star"></i>
-                        <i class="fa fa-star-half"></i>
-                    </div>
-                    <div class="cost">
-                        <p class="realCost">
-                            <s>$95</s>
-                        </p>
-                        <p class="DiscountCost">
-                            $30
-                        </p>
-                    </div>
-                    <div class="buyBtn">
-                        <a href="" class="buy">
-                            <i class="fa fa-cart-plus"></i>
-                            <p class="buyText">Add to cart</p>
-                        </a>
-                    </div>
-                </div>
-*/
