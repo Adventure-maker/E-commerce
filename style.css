@@ -1,0 +1,42 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+ul {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+li {
+    list-style: none;
+}
+
+#main {
+    width: 70%;
+    margin: auto;
+}
+
+#logo {
+    margin: 0;
+    padding: 0;
+    height: 80px;
+    width: 80px;
+}
+
+#cart {
+    font-size: 40px;
+    color: #3b3b3b;
+    margin-right: 50px;
+}
+
+header {
+    text-align: center;
+    font-size: 30px;
+    font-family: sans-serif;
+}
