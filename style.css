@@ -83,7 +83,7 @@ nav {
 }
 
 .cont {
-    height: 45vh;
+    height: 50vh;
     width: 95%;
     display: flex;
     justify-content: space-between;
@@ -106,12 +106,12 @@ footer {
 }
 
 .about {
-    margin-top: 4%;
+    margin-top: 6%;
     padding: 2%;
 }
 
 .cost {
-    margin-top: 5%;
+    margin-top: 6%;
     display: flex;
     justify-content: space-between;
     font-size: 1.3rem;
@@ -127,7 +127,7 @@ footer {
 }
 
 .rating {
-    margin-top: 3%;
+    margin-top: 6%;
     color: #ffc448;
 }
 
