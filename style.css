@@ -159,3 +159,25 @@ footer {
 .title {
     font-size: 20px;
 }
+
+@media only screen and (max-width:280px) {
+    body {
+        height: 100%;
+        width: 100%;
+    }
+
+    .course-cont {
+        display: block;
+    }
+
+    .cont {
+        display: block;
+        height: auto;
+    }
+
+    .card {
+        width: 100%;
+        margin: auto;
+        margin-bottom: 10%;
+    }
+}
