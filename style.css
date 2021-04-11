@@ -83,7 +83,7 @@ nav {
 }
 
 .cont {
-    height: 50vh;
+    height: auto;
     width: 95%;
     display: flex;
     justify-content: space-between;
